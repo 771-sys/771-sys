@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 I am a member of U.E.C.wings!
 <!--
 **771-sys/771-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
